@@ -3,7 +3,7 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   base: "/",
-
+  // dest: './dist',
   locales: {
     "/": {
       lang: "zh-CN",
@@ -11,7 +11,6 @@ export default defineUserConfig({
       description: "可惜这是你和的她的婚礼, 而我只是嘉宾",
     },
   },
-
   theme,
 
   shouldPrefetch: false,
