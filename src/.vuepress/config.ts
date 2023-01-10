@@ -3,7 +3,7 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   // 配置
-  base: "",
+  base: "/",
   dest: './dist',
   locales: {
     "/": {
