@@ -32,6 +32,7 @@ jobs:
       - name: 构建文档
         env:
           NODE_OPTIONS: --max_old_space_size=8192
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: npm run docs:build
 
       - name: 部署文档
