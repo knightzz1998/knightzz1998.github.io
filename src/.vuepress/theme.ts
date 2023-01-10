@@ -3,7 +3,7 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://knightzz1998.github.io/",
 
   author: {
     name: "兀坐晴窗独饮茶",
@@ -12,7 +12,8 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/logo.jpg",
+  //
+  logo: "logo.jpg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
