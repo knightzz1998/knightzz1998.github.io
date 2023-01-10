@@ -4,7 +4,6 @@ import theme from "./theme.js";
 export default defineUserConfig({
   // 打包时设置为 base: ""
   base: "/",
-  // dest: './dist',
   locales: {
     "/": {
       lang: "zh-CN",
