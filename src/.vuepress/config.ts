@@ -3,8 +3,8 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   // 配置
-  base: "/knightzz1998/",
-  // dest: './dist',
+  base: "",
+  dest: './dist',
   locales: {
     "/": {
       lang: "zh-CN",
