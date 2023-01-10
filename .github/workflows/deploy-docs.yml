@@ -44,4 +44,4 @@ jobs:
           folder: src/.vuepress/dist
         # 添加accesstoken
         env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
