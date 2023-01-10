@@ -13,7 +13,7 @@ export default hopeTheme({
   iconAssets: "iconfont",
 
   //
-  logo: "logo.jpg",
+  logo: "https://haloos.oss-cn-beijing.aliyuncs.com/typero/image-20230110133638390.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
