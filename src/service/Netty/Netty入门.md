@@ -178,5 +178,13 @@ public class NettyClient {
 
 
 
+## Netty组件详解
+
+
+
+### Channel
+
+
+
 
 
