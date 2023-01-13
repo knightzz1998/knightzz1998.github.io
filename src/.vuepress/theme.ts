@@ -3,7 +3,7 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://knightzz1998.github.io",
 
   author: {
     name: "兀坐晴窗独饮茶",
@@ -55,7 +55,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个 Java后端开发",
+        description: "我假装过去不重要, 却发现自己办不到",
         intro: "/my/intro.md",
       },
 
