@@ -1,5 +1,10 @@
 ---
 title: JavaBIO编程
+icon: note
+date: 2022-01-12
+category:
+  - Netty实战
+sidebar: heading
 ---
 
 ## JavaBIO模型
