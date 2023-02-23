@@ -8,19 +8,19 @@ tagline: 可惜这是你和她的婚礼, 而我只是嘉宾
 heroFullScreen: true
 projects:
   - icon: project
-    name: 手写Spring
-    desc: 这是我的第一个项目
-    link: https://your.project.link
+    name: BetterRpc项目
+    desc: better-rpc 是一款分布式的、高性能、可扩展的RPC框架
+    link: https://github.com/knightzz1998/better-rpc-project
 
   - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+    name: GitHub Page
+    desc: My GitHub Home
+    link: https://github.com/knightzz1998
 
   - icon: book
-    name: book name
-    desc: Detailed description of the book
-    link: https://link.to.your.book
+    name: CSDN
+    desc: My CSDN Blog
+    link: https://blog.csdn.net/weixin_40040107?spm=1000.2115.3001.5343
 
   - icon: article
     name: article name
