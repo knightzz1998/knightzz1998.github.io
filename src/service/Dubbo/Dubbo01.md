@@ -1,6 +1,6 @@
 ---
-title: dubbo环境搭建+整合SpringBoot
-sidebar: heading
+title: dubbo环境搭建
+icon: note
 ---
 
 ## Windows环境搭建
