@@ -1,7 +1,8 @@
 ---
-title: Java基础面试(中)
+title: Java基础面试题(中)
 date: 2023-02-24
-icon: note
+icon: java
+banner: https://haloos.oss-cn-beijing.aliyuncs.com/typero/image-20230224202059698.png
 category:
   - Java基础
   - 面试题
@@ -928,4 +929,5 @@ public static String getStr() {
       return "ing";
 }
 ```
+
 

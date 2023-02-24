@@ -28,7 +28,7 @@ export const zhNavbar = navbar([
     },
     {
         text: "JVM",
-        icon: "book",
+        icon: "list",
         prefix: "/jvm/",
         children: [
             {
@@ -118,8 +118,8 @@ export const zhNavbar = navbar([
         ]
     },
     {
-        text: "LeetCode",
-        icon: "note",
+        text: "算法刷题",
+        icon: "alias",
         prefix: "/leetcode/",
         children: [
             {
@@ -136,5 +136,28 @@ export const zhNavbar = navbar([
             }
         ]
     },
-    "/blog/",
+    {
+        text: "Blog相关",
+        icon: "blog",
+        prefix: "/blog/",
+        children: [
+            {
+                text: "issue",
+                icon: "edit",
+                prefix: "issue/",
+                children: [
+                    {
+                        text: "GitHub Pages部署vuepress报错",
+                        icon: "edit",
+                        link: "Blog01",
+                    },
+                    {
+                        text: "项目打包页面空白问题",
+                        icon: "edit",
+                        link: "Blog02",
+                    }
+                ]
+            }
+        ]
+    },
 ]);
