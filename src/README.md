@@ -6,6 +6,7 @@ title: Home
 heroText: 兀坐晴窗独饮茶
 tagline: 可惜这是你和她的婚礼, 而我只是嘉宾
 heroFullScreen: true
+bgImage: /bgImage.jpg
 projects:
   - icon: project
     name: 手写Spring
