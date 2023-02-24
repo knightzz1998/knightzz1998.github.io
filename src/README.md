@@ -9,18 +9,18 @@ heroFullScreen: true
 bgImage: /bgImage.jpg
 projects:
   - icon: project
-    name: 手写Spring
-    desc: 这是我的第一个项目
-    link: https://your.project.link
+    name: Better RPC
+    desc: better-rpc 是一款分布式的、高性能、可扩展的RPC框架
+    link: https://github.com/knightzz1998/better-rpc-project
 
-  - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+  - icon: github
+    name: GitHub Home
+    desc: 这个是我的Github主页
+    link: https://github.com/knightzz1998
 
-  - icon: book
-    name: book name
-    desc: Detailed description of the book
+  - icon: gitee
+    name: Gitee Home
+    desc: 这个是我的Gitee主页
     link: https://link.to.your.book
 
   - icon: article

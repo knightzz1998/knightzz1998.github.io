@@ -4,7 +4,7 @@ export const zhNavbar = navbar([
     {text: "首页", icon: "discover", link: "/"},
     {
         text: "Java基础",
-        icon: "note",
+        icon: "java",
         prefix: "/javabase/",
         children: [
             {
@@ -59,7 +59,7 @@ export const zhNavbar = navbar([
     },
     {
         text: "微服务",
-        icon: "note",
+        icon: "hot",
         prefix: "/service/",
         children: [
             {
@@ -100,7 +100,7 @@ export const zhNavbar = navbar([
     },
     {
         text: "中间件",
-        icon: "note",
+        icon: "launch",
         prefix: "/middleware/",
         children: [
             {

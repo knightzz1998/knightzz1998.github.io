@@ -38,7 +38,7 @@ export const zhSidebar = sidebar({
             // 必要的，分组的标题文字
             text: "Dubbo",
             // 可选的, 分组标题对应的图标
-            icon: "lightbulb",
+            icon: "IO",
             // 可选的, 分组标题对应的链接
             link: "Dubbo/",
             // 可选的，会添加到每个 item 链接地址之前
@@ -53,7 +53,7 @@ export const zhSidebar = sidebar({
             // 必要的，分组的标题文字
             text: "Netty",
             // 可选的, 分组标题对应的图标
-            icon: "lightbulb",
+            icon: "community",
             // 可选的, 分组标题对应的链接
             link: "Netty/",
             // 可选的，会添加到每个 item 链接地址之前
@@ -73,7 +73,7 @@ export const zhSidebar = sidebar({
             // 必要的，分组的标题文字
             text: "二叉树",
             // 可选的, 分组标题对应的图标
-            icon: "note",
+            icon: "launch",
             // 可选的, 分组标题对应的链接
             link: "binary_tree/",
             // 可选的，会添加到每个 item 链接地址之前
@@ -108,9 +108,9 @@ export const zhSidebar = sidebar({
     "/javabase/": [
         {
             // 必要的，分组的标题文字
-            text: "面试篇",
+            text: "Java基础面试题",
             // 可选的, 分组标题对应的图标
-            icon: "tip",
+            icon: "java",
             // 可选的, 分组标题对应的链接
             link: "interview/",
             // 可选的，会添加到每个 item 链接地址之前
