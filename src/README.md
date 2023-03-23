@@ -3,9 +3,11 @@ home: true
 title: 主页
 icon: home
 heroImage: /logo/首页logo.jpeg
+# heroImage: /logo/首页logo2.jpg
 heroImageStyle: size:30px
 heroFullScreen: true
 heroText: 兀坐晴窗独饮茶
+# heroText: Geek Zone
 tagline: 十里平湖霜满天, 寸寸青丝愁华年✨
 actions:
 - text: Java基础 🧭
