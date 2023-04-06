@@ -7,8 +7,8 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "兀坐晴窗独饮茶",
-      description: "可惜这是你和的她的婚礼, 而我只是嘉宾",
+      title: "十里平湖霜满天",
+      description: "不过是些许风霜罢了",
     },
   },
   theme,

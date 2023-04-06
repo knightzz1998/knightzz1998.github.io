@@ -112,9 +112,9 @@ export const zhSidebar = sidebar({
             // 可选的, 分组标题对应的图标
             icon: "java",
             // 可选的, 分组标题对应的链接
-            link: "interview/",
+            link: "db/",
             // 可选的，会添加到每个 item 链接地址之前
-            prefix: "interview/",
+            prefix: "db/",
             // 可选的, 设置分组是否可以折叠，默认值是 false,
             collapsible: true,
             children: [
