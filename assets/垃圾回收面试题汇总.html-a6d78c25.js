@@ -1,0 +1,1 @@
+import{_,V as t,W as a,X as e,Y as c}from"./framework-9b2b5024.js";const r={},s=e("h2",{id:"g1垃圾收集器",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#g1垃圾收集器","aria-hidden":"true"},"#"),c(" G1垃圾收集器")],-1),o=[s];function n(d,i){return t(),a("div",null,o)}const l=_(r,[["render",n],["__file","垃圾回收面试题汇总.html.vue"]]);export{l as default};
